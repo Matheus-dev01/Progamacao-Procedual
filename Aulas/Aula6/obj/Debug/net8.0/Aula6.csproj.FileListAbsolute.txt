@@ -1,0 +1,14 @@
+C:\Users\IFSP\Documents\Aula6\bin\Debug\net8.0\Aula6.exe
+C:\Users\IFSP\Documents\Aula6\bin\Debug\net8.0\Aula6.deps.json
+C:\Users\IFSP\Documents\Aula6\bin\Debug\net8.0\Aula6.runtimeconfig.json
+C:\Users\IFSP\Documents\Aula6\bin\Debug\net8.0\Aula6.dll
+C:\Users\IFSP\Documents\Aula6\bin\Debug\net8.0\Aula6.pdb
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.dll
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\refint\Aula6.dll
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.pdb
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\Aula6.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Aula6\obj\Debug\net8.0\ref\Aula6.dll
