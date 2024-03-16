@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\Documents\\Aula6\\Aula6.csproj",
+      "projectUniqueName": "C:\\Users\\IFSP\\Documents\\Progamacao-Procedural\\Aulas\\Aula6\\Aula6.csproj",
       "projectName": "Aula6",
-      "projectPath": "C:\\Users\\IFSP\\Documents\\Aula6\\Aula6.csproj",
+      "projectPath": "C:\\Users\\IFSP\\Documents\\Progamacao-Procedural\\Aulas\\Aula6\\Aula6.csproj",
       "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\Documents\\Aula6\\obj\\",
+      "outputPath": "C:\\Users\\IFSP\\Documents\\Progamacao-Procedural\\Aulas\\Aula6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config"

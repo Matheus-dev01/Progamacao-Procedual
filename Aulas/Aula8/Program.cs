@@ -4,12 +4,18 @@ class Program
 {
     static void Main (string[] args)
     {
-        int contador = 1;
-        while (contador <= 10)
+        Tabuleiro.InicializaTabuleiro();
+        
+    for (int linha = 0; linha < 8; linha++)
+    {
+        for (int coluna = 0; coluna < 8; coluna++)
         {
-            System.Console.WriteLine(contador);
-            contador++;
+            if (linha == coluna)
+            {
+                Tabuleiro.Adicionar(linha, coluna, "M");
+            }
         }
-        System.Console.WriteLine("Fim!");
+    }
+        Tabuleiro.ImprimeTabuleiro();
     }
 }
