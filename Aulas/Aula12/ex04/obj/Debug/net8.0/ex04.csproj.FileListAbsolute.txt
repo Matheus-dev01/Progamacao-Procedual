@@ -1,0 +1,15 @@
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.sourcelink.json
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\mathe_de5m88b\OneDrive\Área de Trabalho\Progamacao-Procedural\Aulas\Aula12\ex04\obj\Debug\net8.0\ref\ex04.dll
