@@ -1,0 +1,15 @@
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\bin\Debug\net8.0\ex01.exe
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\bin\Debug\net8.0\ex01.deps.json
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\bin\Debug\net8.0\ex01.dll
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\bin\Debug\net8.0\ex01.pdb
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.sourcelink.json
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.dll
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\refint\ex01.dll
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.pdb
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+C:\Users\IFSP\Documents\Progamacao-Procedural\Aulas\Aula15\ex01\obj\Debug\net8.0\ref\ex01.dll
